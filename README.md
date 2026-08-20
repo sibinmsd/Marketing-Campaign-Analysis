@@ -48,8 +48,9 @@ GlowUp, a beauty and skincare startup wants to identify which campaigns delivere
 4. ROI - Monthly analysis
 
 **DAX Measures used**
-1. Handled missing values using statistical DAX measures and conditional DAX measures
-2. Calculated Return on investment, Cost Per Acquisition, Conversion Rate
+1. Handled missing values using statistical DAX measures and conditional DAX measures. 
+2. Calculated Return on investment, Cost Per Acquisition, Conversion Rate. 
+3. Used buttons and page navigator to navigate through multiple pages of the dashboard. 
 
 
 **Key Insights**
