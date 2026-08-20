@@ -1,8 +1,9 @@
-## Marketing Campaign ROI Analysis
-**Stakeholders wants to identify which campaigns delivered the best return on investment** 
+## Marketing Campaign ROI Analysis | GlowUp
+**An interactive Power BI dashboard analyzing 40 marketing campaigns across 4 channels to maximize ROI for a beauty & skincare startup.** 
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 **Project Overview**
 
@@ -10,16 +11,29 @@ This project analyzes Marketing Campaign data consisting details of 40 campaigns
 Power BI is used to create interactive visuals to obtain insights and to recommend strategic actions.
 
 **Problem Statement**
-GlowUp, a beauty and skincare startup wants to identify which campaigns delivered the best return on investment (ROI) and how to allocate marketing budgets efficiently in the future.
+
+GlowUp, a beauty & skincare startup, wants to identify which campaigns delivered the best return on investment (ROI) and how to allocate marketing budgets efficiently in the future.
+
+**Key Questions:**
+- Which channel delivers the highest ROI?
+- Which campaigns should be scaled up or discontinued?
+- How does performance vary month-over-month?
+- What is the optimal customer acquisition cost per channel?
+
+**Dataset**
+- **Period:** July 2024 – June 2025 (12 months)
+- **Campaigns:** 40
+- **Channels:** Email, Event, Influencer, Social Media
+- **Metrics:** Impressions, Clicks, Spend, Revenue, Conversions
 
 ## Dashboard Preview 
 
 <img width="1305" height="701" alt="image" src="https://github.com/user-attachments/assets/0520d40f-e31b-43ab-8bf9-0f06bac35fae" />
 
+<img width="1298" height="736" alt="Screenshot 2026-08-20 163329" src="https://github.com/user-attachments/assets/3fb4dc7a-bb72-4d80-81e3-423bf38f88bd" />
 
-## Download Power Bi File 
+<img width="1310" height="721" alt="Screenshot 2026-08-20 163419" src="https://github.com/user-attachments/assets/21386f1c-7026-44b3-8317-c1b9b2871e21" />
 
-**Github Release:**  [https://github.com/sibinmsd/HR_Employee_Attrition_Dashboard/releases/tag/v1.0](https://github.com/sibinmsd/HR_Employee_Attrition_Dashboard/releases/download/v1.0/HR_Analytics_Dashboard.pbix)
 
 ## Dataset
 - 40 campaign records
